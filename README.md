@@ -46,6 +46,7 @@
 
    ![继电器配置页面](pic/5.jpeg)
 
+其中logo文字 [xcshare.site](xcshare.site) 可以在html.h文件中修改为你想要的logo.
 
 ## 数据的滤波
 
